@@ -1,5 +1,5 @@
-# Use the official Jupyter base notebook image with Python 3.10
-FROM jupyter/scipy-notebook:python-3.10
+# Use the official Jupyter base notebook image with Python 3.11
+FROM jupyter/scipy-notebook:python-3.11
 
 LABEL maintainer="doriio <1819506337@qq.com>"
 
